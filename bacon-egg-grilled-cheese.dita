@@ -16,10 +16,25 @@
                 <li>2 slices of Colby-Jack cheese</li>
                 <li>4 slices of fully-cooked bacon</li>
             </ul>
+            <p>Directions</p>
+            <ol>
+                <li>Beat eggs, milk, salt and pepper in small bowl until blended</li>
+                <li>Heat 1 tsp. butter in large nonstick skillet over medium heat until hot</li>
+                <li>Pour in egg mixture</li>
+                <li>As eggs begin to set, gently pull the eggs across the pan with an inverted turner, forming large soft curds</li>
+                <li>Continue cooking – pulling, lifting and folding eggs – until thickened and no visible liquid egg remains</li>
+                <li>Remove from pan</li>
+                <li>Clean skillet</li>
+                <li>Spread remaining 2 tsp. butter evenly on one side of each bread slice</li>
+                <li>Place 2 slices in skillet, buttered side down</li>
+                <li>Top evenly with scrambled eggs, cheese and bacon</li>
+                <li>Cover with remaining bread, buttered side up</li>
+                <li>Cook sandwiches over medium heat, turning once, until bread is toasted and cheese is melted, 2 to 4 minutes</li>
+            </ol>
         </context>
         <steps>
             <step>
-                <cmd>Beat eggs, milk, salt and pepper in small bowl until blended</cmd>
+                <cmd></cmd>
             </step>
         </steps>
     </taskbody>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="bacon-egg-wrap">
+    <title>Bacon and Egg Wrap</title>
+    <shortdesc>This is how to make bacon and egg wraps.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 medium onion, chopped</li>
+                <li>3/4 cup chopped green bell pepper</li>
+                <li>1 tablespoon butter or margarine</li>
+                <li>5 eggs</li>
+                <li>1 tablespoon milk</li>
+                <li>1/2 teaspoon salt</li>
+                <li>1/4 teaspoon pepper</li>
+                <li>2 cups shredded Cheddar cheese</li>
+                <li>1/2 pound sliced bacon, cooked and crumbled</li>
+                <li>4 10-inch flour tortillas</li>
+            </ul>
+            <p>Directions</p>
+            <ol>
+                <li>In a nonstick skillet, saute onion and green pepper in butter until tender</li>
+                <li>In a bowl, beat the eggs, milk, salt and pepper</li>
+                <li>Pour over vegetables in the skillet</li>
+                <li>Sprinkle with cheese and bacon</li>
+                <li>Cook and stir gently over medium heat until the eggs are completely set</li>
+                <li>Spoon 1/2 cup down the center of each tortilla; fold sides over filling</li>
+            </ol>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
