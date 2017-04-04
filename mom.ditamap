@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title/>
+ <topicmeta>
+  <author></author>
+ </topicmeta>
+ <topicref href="bacon-egg-wrap.dita" navtitle="Bacon-Egg Wrap"/>
+ <topicref href="bacon-egg-grilled-cheese.dita" navtitle="Grilled Cheese"/>
+</map>

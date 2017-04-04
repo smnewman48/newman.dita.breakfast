@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vegan-grilled-cheese">
+    <title>Vegan Alternative to Bacon-Egg Grilled Cheese</title>
+    <shortdesc>I found a great recipe for bacon-egg grilled cheese, but it doesn't work for vegans. Here's a great alternative.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients</p>
+            <ul>
+                <li>2 tbsp. soy milk or water</li>
+                <li>salt and pepper, as desired</li>
+                <li>3 tsp. vegan margarine, room temperature, divided</li>
+                <li></li>
+            </ul>    
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
