@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="french-toast">
+    <title>Vegan French Toast
+        <image id="french-toast"
+            
+            href="https://d1wcgy4dy6voh7.cloudfront.net/wp-content/uploads/2013/04/IMG_0047.jpg"/>
+    </title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Ingredients</p>
+                <ul>
+                    <li>6 slices day-old ciabatta bread, sliced about ¾-inch thick</li>
+                    <li>1 cup Almond Breeze Almond Milk</li>
+                    <li>1 tablespoon maple syrup, plus more for serving</li>
+                    <li>2 tablespoons millet flour (or spelt or whole wheat)</li>
+                    <li>1 tablespoon nutritional yeast</li>
+                    <li>1 teaspoon cinnamon</li>
+                    <li>¼ teaspoon freshly ground nutmeg</li>
+                    <li>tiny pinch of salt</li>
+                    <li>coconut oil, for the pan</li>
+                    <li>Powdered sugar</li>
+                    <li>Vegan butter</li>
+                    <li>Maple syrup</li>
+                    <li>Fresh fruit</li>
+                </ul>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In a small bowl, whisk together the almond milk, maple syrup, flour, nutritional yeast, cinnamon, nutmeg and salt</cmd>
+            </step>
+            <step>
+                <cmd>Place the bread in a shallow dish (with sides) that holds all of the bread</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture over the bread, then lift or flip the bread over to make sure both sides are evenly coated</cmd>
+            </step>
+            <step>
+                <cmd>Heat a drizzle of coconut oil in a large skillet over medium heat</cmd>
+            </step>
+            <step>
+                <cmd>When the pan is hot, add the bread slices and cook for a few minutes per side, until golden brown</cmd>
+            </step>
+            <step>
+                <cmd>Serve with powdered sugar, a dab of vegan butter, maple syrup, and fresh fruit</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

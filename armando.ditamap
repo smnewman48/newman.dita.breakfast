@@ -3,11 +3,12 @@
 <map>
  <title>Breakfast Recipes for Armando</title>
  <topicmeta>
-  <author></author>
+  <author>Stephen Newman</author>
  </topicmeta>
  <topicref href="veganwaffles.dita" navtitle="Waffles"/>
  <topicref href="bean-and-avocado-toast.dita" navtitle="Toast"/>
  <topicref href="green-smoothie.dita" navtitle="Smoothie"/>
  <topicref href="oatmeal.dita" navtitle="Oatmeal"/>
  <topicref href="vegan-grilled-cheese.dita" navtitle="Vegan Grilled Cheese"/>
+ <topicref href="french-toast.dita" navtitle="French Toast"/>
 </map>
