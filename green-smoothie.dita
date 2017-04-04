@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="green-smoothie">
+    <title>Pearrific Green Smoothie</title>
+    <shortdesc>A smoothie made with fresh veggie juice and blended with a healthy dose of spinach and ripe pear.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients</p>
+            <ul>
+                <li>2 kale leaves</li>
+                <li>2 celery sticks</li>
+                <li>2 carrots</li>
+                <li>1 small knob ginger</li>
+                <li>1 pear, core removed and sliced</li>
+                <li>2 cups spinach</li>
+                <li>1 tablespoon chia seeds</li>
+                <li>6-8 ice cubes</li>
+            </ul>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Set juicer setting to 'low', place softer items, like kale, into juicer</cmd>
+            </step>
+            <step>
+                <cmd>Turn to ‘high’ and juice the celery, carrots and ginger<image
+                        href="https://www.healthfulpursuit.com/wp-content/uploads/Pearific-Smoothie-55-2.jpg"
+                        id="image_zc2_slq_lz"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
