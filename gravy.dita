@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_xtx_td5_lz">
+<task id="sausage-gravy">
     <title>Country Sausage Gravy
         <image id="gravy"
             href="http://images.media-allrecipes.com/userphotos/560x315/116844.jpg"/>
@@ -24,10 +24,41 @@
                 <li>2 cubes chicken bouillon</li>
                 <li>1/4 cup minced fresh parsley</li>
             </ul>
+            <p>Directions</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>In a skillet on medium heat cook pork, onion, green pepper, red pepper flakes, and garlic until pork is crumbly</cmd>
+            </step>
+            <step>
+                <cmd>Drain off excess fat, but leave a small amount</cmd>
+            </step>
+            <step>
+                <cmd>Combine butter, salt, and pepper with the meat mixture and stir until butter melts</cmd>
+            </step>
+            <step>
+                <cmd>Slowly sift flour over the top</cmd>
+            </step>
+            <step>
+                <cmd>Mix gently and allow mixture to cook for 5 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Add the sage and thyme</cmd>
+            </step>
+            <step>
+                <cmd>Slowly stir in milk, about a half a cup at a time, and incorporate it well</cmd>
+            </step>
+            <step>
+                <cmd>When the mixture thickens, add more milk</cmd>
+            </step>
+            <step>
+                <cmd>Add chicken bullion and let cook for five minutes</cmd>
+            </step>
+            <step>
+                <cmd>Adjust taste with more salt and pepper if needed</cmd>
+            </step>
+            <step>
+                <cmd>Just before serving, add the parsley, and about a 1/4 cup more milk</cmd>
             </step>
         </steps>
     </taskbody>

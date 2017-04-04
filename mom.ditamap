@@ -12,4 +12,6 @@
  <topicref href="turkey-sausage.md" format="markdown"/>
  <topicref href="ham-hash.md" format="markdown" navtitle="Breakfast Casserole"/>
  <topicref href="gravy.dita" navtitle="Sausage Gravy"/>
+ <topicref href="egg-bacon-sandwich.md" format="markdown"/>
+ <topicref href="bacon-pancake.md" format="markdown" navtitle="Bacon Pancake"/>
 </map>

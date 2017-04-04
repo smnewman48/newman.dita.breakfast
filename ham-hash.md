@@ -1,6 +1,7 @@
 <title>Cheesy Ham and Hash Brown Casserole
 
-<p>Ingredients & Directions
+
+![http://images.media-allrecipes.com/userphotos/250x250/566024.jpg](http://images.media-allrecipes.com/userphotos/250x250/566024.jpg)<p>Ingredients & Directions
 
 <ul>
 
