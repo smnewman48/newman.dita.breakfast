@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="bacon-egg-wrap">
     <title>Bacon and Egg Wrap</title>
-    <shortdesc>This is how to make bacon and egg wraps.</shortdesc>
+    <shortdesc>This is how to make a nice bacon and egg wraps.</shortdesc>
     <taskbody>
         <context>
             <p>Ingredients</p>
@@ -15,7 +15,7 @@
                 <li>1/2 teaspoon salt</li>
                 <li>1/4 teaspoon pepper</li>
                 <li>2 cups shredded Cheddar cheese</li>
-                <li>1/2 pound sliced bacon, cooked and crumbled</li>
+                <li>1/2 pound sliced bacon, cooked and crumbled (sub tofu)</li>
                 <li>4 10-inch flour tortillas</li>
             </ul>
             <p>Directions</p>
@@ -30,7 +30,7 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd><image href="http://allrecipes.com/recipe/42280/bacon-n-egg-wraps/photos/985116/"/></cmd>
             </step>
         </steps>
     </taskbody>

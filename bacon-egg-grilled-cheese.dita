@@ -8,13 +8,13 @@
             <p>Ingredients</p>
             *Yields two sandwiches*
             <ul>
-                <li>2 eggs</li>
+                <li>2 eggs (just remove)</li>
                 <li>2 tbsp. of milk or water</li>
                 <li>salt and pepper, as desired</li>
-                <li>3 tsp. butter, room temperature, divided</li>
+                <li>3 tsp. butter (sub vegan margarine), room temperature, divided</li>
                 <li>4 slices of whole wheat or white bread</li>
-                <li>2 slices of Colby-Jack cheese</li>
-                <li>4 slices of fully-cooked bacon</li>
+                <li>2 slices of Colby-Jack cheese (sub vegan cheese)</li>
+                <li>4 slices of fully-cooked bacon (sub tofu)</li>
             </ul>
             <p>Directions</p>
             <ol>
@@ -34,7 +34,7 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd><image href= "http://creolecontessa.com/wp-content/uploads/2014/04/bacon-egg-and-cheese-grilled-cheese-sandwich-25289-2529.jpg"/></cmd>
             </step>
         </steps>
     </taskbody>

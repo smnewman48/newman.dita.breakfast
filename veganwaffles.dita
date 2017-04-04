@@ -5,8 +5,8 @@
         <shortdesc>This is how to make blueberry oatmeal waffles.</shortdesc>
     <taskbody>
         <context>
-            <p>Ingredients
-                <ul>
+            <p>Ingredients</p>
+            <p>*yields six eight-inch waffles <ul id="ul_shk_3kp_lz">
                     <li>1 cup white whole wheat flour</li>
                     <li>1 tablespoon baking powder</li>
                     <li>1/2 teaspoon salt</li>
@@ -31,7 +31,7 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd><image href="http://farm9.staticflickr.com/8194/8113312680_a60b5e0741_z.jpg"/></cmd>
             </step>
         </steps>
     </taskbody>
