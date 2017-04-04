@@ -10,12 +10,36 @@
                 <li>2 tbsp. soy milk or water</li>
                 <li>salt and pepper, as desired</li>
                 <li>3 tsp. vegan margarine, room temperature, divided</li>
-                <li></li>
-            </ul>    
+                <li>4 slices of whole wheat or white bread</li>
+                <li>2 slices of vegan cheese</li>
+                <li>tofu, as desired</li>
+            </ul>
+            <p>Directions</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Beat soy milk, salt and pepper in small bowl until blended</cmd>
+            </step>
+            <step>
+                <cmd>Heat 1 tsp. vegan margarine in large nonstick skillet over medium heat until hot</cmd>
+            </step>
+            <step>
+                <cmd>Remove from pan and clean skillet</cmd>
+            </step>
+            <step>
+                <cmd>Spread remaining 2 tsp. vegan margarine evenly on one side of each bread slice</cmd>
+            </step>
+            <step>
+                <cmd>Place 2 slices in skillet, buttered side down</cmd>
+            </step>
+            <step>
+                <cmd>Top evenly with vegan cheese and tofu</cmd>
+            </step>
+            <step>
+                <cmd>Cover with remaining bread, buttered side up</cmd>
+            </step>
+            <step>
+                <cmd>Cook sandwiches over medium heat, turning once, until bread is toasted and cheese is melted, 2 to 4 minutes</cmd>
             </step>
         </steps>
     </taskbody>

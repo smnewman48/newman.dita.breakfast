@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="green-smoothie">
-    <title>Pearrific Green Smoothie</title>
+    <title>Pearrific Green Smoothie
+        <image id="image_zc2_slq_lz"
+
+href="https://www.healthfulpursuit.com/wp-content/uploads/Pearific-Smoothie-55-2.jpg"/></title>
     <shortdesc>A smoothie made with fresh veggie juice and blended with a healthy dose of spinach and ripe pear.</shortdesc>
     <taskbody>
         <context>
@@ -23,9 +26,7 @@
                 <cmd>Set juicer setting to 'low', place softer items, like kale, into juicer</cmd>
             </step>
             <step>
-                <cmd>Turn to ‘high’ and juice the celery, carrots and ginger<image
-                        href="https://www.healthfulpursuit.com/wp-content/uploads/Pearific-Smoothie-55-2.jpg"
-                        id="image_zc2_slq_lz"/></cmd>
+                <cmd>Turn to ‘high’ and juice the celery, carrots and ginger</cmd>
             </step>
         </steps>
     </taskbody>

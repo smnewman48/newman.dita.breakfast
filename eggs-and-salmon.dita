@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_spb_nmt_lz">
+    <title>Scrambled Eggs with Smoked Salmon
+        <image id="scrambled"
+            
+            href="http://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/10/2/1/scrambled-eggs-salmon_s4x3.jpg.rend.hgtvcom.616.462.jpeg"/>
+    </title>
+    <shortdesc>Here's a great breakfast option with smoked salmon to top it off.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+            <ul>
+                <li>1/4 pound sliced smoked salmon</li>
+                <li>12 eggs</li>
+                <li>1/2 cup heavy cream</li>
+                <li>Salt and freshly ground black pepper</li>
+                <li>2 tablespoons butter</li>
+                <li>12 to 15 blades of fresh chives, finely chopped</li>
+            </ul>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Reserve 2 slices of salmon for garnish and chop the remaining salmon into very small pieces</cmd>
+            </step>
+            <step>
+                <cmd>Whisk your eggs and cream together</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

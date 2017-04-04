@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-veganwaffles">
-    <title>Blueberry Oatmeal Waffles</title>
+    <title>Blueberry Oatmeal Waffles
+        <image id="waffles"
+            
+            href="http://farm9.staticflickr.com/8194/8113312680_a60b5e0741_z.jpg"/></title>
         <shortdesc>This is how to make blueberry oatmeal waffles.</shortdesc>
     <taskbody>
         <context>
@@ -29,10 +32,5 @@
                 </ol>
             </p>
         </context>
-        <steps>
-            <step>
-                <cmd><image href="http://farm9.staticflickr.com/8194/8113312680_a60b5e0741_z.jpg"/></cmd>
-            </step>
-        </steps>
     </taskbody>
 </task>

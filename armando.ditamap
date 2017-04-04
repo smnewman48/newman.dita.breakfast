@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title/>
+ <title>Breakfast Recipes for Armando</title>
+ <topicmeta>
+  <author></author>
+ </topicmeta>
+ <topicref href="veganwaffles.dita" navtitle="Waffles"/>
+ <topicref href="bean-and-avocado-toast.dita" navtitle="Toast"/>
+ <topicref href="green-smoothie.dita" navtitle="Smoothie"/>
+ <topicref href="oatmeal.dita" navtitle="Oatmeal"/>
+ <topicref href="vegan-grilled-cheese.dita" navtitle="Vegan Grilled Cheese"/>
 </map>

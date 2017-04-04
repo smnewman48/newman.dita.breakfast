@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="bacon-egg-wrap">
-    <title>Bacon and Egg Wrap</title>
+    <title>Bacon and Egg Wrap
+        <image id="wrap"
+
+href="http://images.media-allrecipes.com/userphotos/250x250/985116.jpg"/></title>
     <shortdesc>This is how to make a nice bacon and egg wraps.</shortdesc>
     <taskbody>
         <context>
@@ -28,10 +31,5 @@
                 <li>Spoon 1/2 cup down the center of each tortilla; fold sides over filling</li>
             </ol>
         </context>
-        <steps>
-            <step>
-                <cmd><image href="http://allrecipes.com/recipe/42280/bacon-n-egg-wraps/photos/985116/"/></cmd>
-            </step>
-        </steps>
     </taskbody>
 </task>

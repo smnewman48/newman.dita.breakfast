@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="bean-and-avocado-toast">
-    <title>Toast With Refried Beans and Avocado Recipe</title>
+    <title>Toast With Refried Beans and Avocado Recipe
+        <image id="toast"
+            
+         href="http://www.seriouseats.com/recipes/assets_c/2013/02/20130219-avocado-bean-toast-2-thumb-625xauto-309398.jpg"/>
+    </title>
     <shortdesc>Tasty, filling, but not overly heavy, this is ideal breakfast fare for those who want something beside the bacon and eggs.</shortdesc>
     <taskbody>
         <context>Here's how to take your toast to the next level. <p>Ingredients</p><p>*serves
-                2*</p>
-            <ul>
+                2*</p><ul>
                 <li>2 slices sandwich bread </li>
                 <li>1 cup homemade or store-bought vegan refried beans</li>
                 <li>1 avocado, thinly sliced</li>
                 <li>A few slivers white onion</li>
                 <li>Coarse sea salt such as Maldon or fleur de sel</li>
             </ul>
-            <p>Directions </p><p>*approx. five minutes*</p>
-            <ol>
+            <p>Directions </p><p>*approx. five minutes*</p><ol>
                 <li>Toast bread to desired level</li>
                 <li>Top with refried beans and avocado (mash with a fork if desired)</li>
                 <li>Add slivered onions, sprinkle with salt, and serve</li>
-            </ol>
-        </context>
-        <steps>
-            <step>
-                <cmd><image
-                        href="http://www.seriouseats.com/recipes/assets_c/2013/02/20130219-avocado-bean-toast-2-thumb-625xauto-309398.jpg"
-                        id="image_p2h_njq_lz"/></cmd>
-            </step>
-        </steps>
+            </ol></context>
     </taskbody>
 </task>
