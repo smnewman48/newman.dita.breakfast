@@ -2,13 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="sausage-gravy">
     <title>Country Sausage Gravy
-        <image id="gravy"
-            href="http://images.media-allrecipes.com/userphotos/560x315/116844.jpg"/>
     </title>
     <shortdesc>You'll be surprised at just how much you'll love this.</shortdesc>
     <taskbody>
         <context>
             <p>Ingredients</p>
+            <image href="http://images.media-allrecipes.com/userphotos/250x250/500551.jpg"></image>
             <ul>
                 <li>1 pound pork sausage</li>
                 <li>1 onion, finely chopped</li>

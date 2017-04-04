@@ -1,6 +1,5 @@
 <title>French Egg and Bacon Sandwich
-![http://images.media-allrecipes.com/userphotos/560x315/832481.jpg](http://images.media-allrecipes.com/userphotos/560x315/832481.jpg)
-<p>French Toast with egg and bacon in the center with maple syrup on top. Sprinkle with powdered sugar if desired
+![https://s-media-cache-ak0.pinimg.com/236x/ea/be/13/eabe13d871df5926be3883b98f2cbcbb.jpg](https://s-media-cache-ak0.pinimg.com/236x/ea/be/13/eabe13d871df5926be3883b98f2cbcbb.jpg)
 
 <p>Ingredients & Directions
 

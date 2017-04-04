@@ -2,13 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="oatmeal">
     <title>"Hot Chocolate" Banana-Nut Oatmeal
-        <image id="oatmeal"
-            
-            href="http://farm9.staticflickr.com/8194/8113312680_a60b5e0741_z.jpg"/></title>
+</title>
     <shortdesc>This isn't just any old oatmeal. It's like having dessert for breakfast.</shortdesc>
     <taskbody>
         <context>
             <p>Ingredients</p>
+            <image href="http://www.youthconnectionscoalition.org/content/wp-content/uploads/2015/01/FNK_Healthy-Hot-Chocolate-Banana-Nut-Oatmeal_s4x3.jpg.rend_.sni18col.jpeg"></image>
             <ul>
                 <li>2 cups plain almond milk</li>
                 <li>2 fully-ripened large bananas (1.5 diced and 1/2 thinly sliced crosswise)</li>

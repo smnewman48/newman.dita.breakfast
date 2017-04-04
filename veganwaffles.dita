@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-veganwaffles">
-    <title>Blueberry Oatmeal Waffles
-        <image id="waffles"
-            
-            href="http://farm9.staticflickr.com/8194/8113312680_a60b5e0741_z.jpg"/></title>
+    <title>Blueberry Oatmeal Waffles</title>
+
         <shortdesc>This is how to make blueberry oatmeal waffles.</shortdesc>
     <taskbody>
         <context>
             <p>Ingredients</p>
+            <image href="http://farm9.staticflickr.com/8194/8113312680_a60b5e0741_z.jpg"></image>
             <p>*yields six eight-inch waffles <ul id="ul_shk_3kp_lz">
                     <li>1 cup white whole wheat flour</li>
                     <li>1 tablespoon baking powder</li>

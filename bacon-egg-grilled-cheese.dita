@@ -2,13 +2,13 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="bacon-egg-grilled-cheese">
     <title>Bacon and Egg Breakfast Grilled Cheese Sandwich
-    <image id="grilled-cheese"
-        href="http://creolecontessa.com/wp-content/uploads/2014/04/bacon-egg-and-cheese-grilled-cheese-sandwich-25289-2529.jpg"/>
     </title>
     <shortdesc>Who says you can't have grilled cheese for breakfast? Here's how.</shortdesc>
     <taskbody>
         <context>
-            <p>Ingredients</p> *Yields two sandwiches* <ul>
+            <p>Ingredients</p> *Yields two sandwiches* 
+            <image href="https://i.ytimg.com/vi/v_5CbAAyhDU/hqdefault.jpg"></image>
+            <ul>
                 <li>2 eggs</li>
                 <li>2 tbsp. of milk or water</li>
                 <li>salt and pepper, as desired</li>

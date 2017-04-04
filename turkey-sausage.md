@@ -1,5 +1,5 @@
 <title>Turkey Breakfast Sausage
-
+![http://images.media-allrecipes.com/userphotos/250x250/1634786.jpg](http://images.media-allrecipes.com/userphotos/250x250/1634786.jpg)
 <p>Ingredients & Directions
 
 <ul>

@@ -1,6 +1,8 @@
 <title>Maple Bacon Pancake
-![http://images.media-allrecipes.com/userphotos/560x315/32922.jpg](http://images.media-allrecipes.com/userphotos/560x315/32922.jpg)
-<p>This is a wonderful combination of flavors and its baked in a pie plate.
+
+<p>You will love this combination of flavors and its baked in a pie plate.
+
+![https://a.dilcdn.com/bl/wp-content/uploads/sites/8/2011/11/breakfast-becomes-cravetastic.jpg](https://a.dilcdn.com/bl/wp-content/uploads/sites/8/2011/11/breakfast-becomes-cravetastic.jpg)
 
 <p> Ingredients & Directions
 

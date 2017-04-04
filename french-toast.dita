@@ -2,14 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="french-toast">
     <title>Vegan French Toast
-        <image id="french-toast"
-            
-            href="https://d1wcgy4dy6voh7.cloudfront.net/wp-content/uploads/2013/04/IMG_0047.jpg"/>
     </title>
-    <shortdesc/>
+    <shortdesc>It may be basic, but you'll love it!</shortdesc>
     <taskbody>
         <context>
             <p>Ingredients</p>
+            <image href="http://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/68/36/7/r39yJmUOTrKFuMSuvWkg_Vegan%20french%20Toast.JPG"></image>
                 <ul>
                     <li>6 slices day-old ciabatta bread, sliced about ¾-inch thick</li>
                     <li>1 cup Almond Breeze Almond Milk</li>

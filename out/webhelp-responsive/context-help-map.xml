@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="t-veganwaffles" path="veganwaffles.html"/>
+   <appContext helpID="bean-and-avocado-toast" path="bean-and-avocado-toast.html"/>
+   <appContext helpID="green-smoothie" path="green-smoothie.html"/>
+   <appContext helpID="oatmeal" path="oatmeal.html"/>
+   <appContext helpID="vegan-grilled-cheese" path="vegan-grilled-cheese.html"/>
+   <appContext helpID="french-toast" path="french-toast.html"/>
+</map>

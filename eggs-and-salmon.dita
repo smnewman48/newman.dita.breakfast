@@ -2,14 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_spb_nmt_lz">
     <title>Scrambled Eggs with Smoked Salmon
-        <image id="scrambled"
-            
-            href="http://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/10/2/1/scrambled-eggs-salmon_s4x3.jpg.rend.hgtvcom.616.462.jpeg"/>
     </title>
     <shortdesc>Here's a great breakfast option with smoked salmon to top it off.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Ingredients</p>
+            <image href="http://www.jmob.ie/wp-content/uploads/2015/07/Scrambled_Egg_Smoked_Salmon.jpg"></image>
             <ul>
                 <li>1/4 pound sliced smoked salmon</li>
                 <li>12 eggs</li>

@@ -2,13 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="bacon-egg-wrap">
     <title>Bacon and Egg Wrap
-        <image id="wrap"
-
-href="http://images.media-allrecipes.com/userphotos/250x250/985116.jpg"/></title>
+</title>
     <shortdesc>This is how to make a nice bacon and egg wraps.</shortdesc>
     <taskbody>
         <context>
             <p>Ingredients</p>
+            <image href="http://images.media-allrecipes.com/userphotos/250x250/985116.jpg"></image>
             <ul>
                 <li>1 medium onion, chopped</li>
                 <li>3/4 cup chopped green bell pepper</li>
