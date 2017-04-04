@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xtx_td5_lz">
+    <title>Country Sausage Gravy
+        <image id="gravy"
+            href="http://images.media-allrecipes.com/userphotos/560x315/116844.jpg"/>
+    </title>
+    <shortdesc>You'll be surprised at just how much you'll love this.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 pound pork sausage</li>
+                <li>1 onion, finely chopped</li>
+                <li>1 green bell pepper, finely chopped</li>
+                <li>1 teaspoon crushed red pepper flakes</li>
+                <li>2 tablespoons garlic, minced</li>
+                <li>4 tablespoons unsalted butter</li>
+                <li>salt and pepper to taste</li>
+                <li>4 tablespoons all-purpose flour</li>
+                <li>1 teaspoon minced fresh sage</li>
+                <li>1 teaspoon minced fresh thyme</li>
+                <li>2 cups milk, divided</li>
+                <li>2 cubes chicken bouillon</li>
+                <li>1/4 cup minced fresh parsley</li>
+            </ul>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

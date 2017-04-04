@@ -9,4 +9,7 @@
  <topicref href="bacon-egg-grilled-cheese.dita" navtitle="Grilled Cheese"/>
  <topicref href="breakfast-pizza.dita" navtitle="Pizza"/>
  <topicref href="eggs-and-salmon.dita" navtitle="Scrambled Eggs"/>
+ <topicref href="turkey-sausage.md" format="markdown"/>
+ <topicref href="ham-hash.md" format="markdown" navtitle="Breakfast Casserole"/>
+ <topicref href="gravy.dita" navtitle="Sausage Gravy"/>
 </map>

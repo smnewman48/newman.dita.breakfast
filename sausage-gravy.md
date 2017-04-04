@@ -24,4 +24,5 @@ Ingredients & Directions
 <li>Slowly sift flour over the top
 <li>Mix gently and allow mixture to cook for 5 minutes
 <li>Add the sage and thyme
-<li>Slowly stir in milk, about a half a cup at a time, and incorporate it well
+<li>Slowly stir in milk, about a half a cup at a time
+
