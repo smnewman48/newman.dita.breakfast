@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="breakfast-pizza">
+    <title>English-Muffin Breakfast Pizza
+        
+        <image id="image_jn3_mtq_lz"
+            href="http://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/8/13/2/FNM100109AskEllie003_s4x3.jpg.rend.hgtvcom.616.462.jpeg"
+        /></title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 whole-wheat English muffin, split</li>
+                <li>1 small tomato, seeded and diced</li>
+                <li>1 teaspoon extra-virgin olive oil</li>
+                <li>1 thin slice (1/2 ounce) Canadian bacon, diced</li>
+                <li>1/4 cup shredded part-skim mozzarella cheese</li>
+                <li>Chopped fresh basil, for garnish</li>
+            </ul>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 450 degrees</cmd>
+            </step>
+            <step>
+                <cmd>Line a small baking sheet with foil</cmd>
+            </step>
+            <step>
+                <cmd>Place the English muffin halves cut-side up on the baking sheet</cmd>
+            </step>
+            <step>
+                <cmd>Top each with tomato and drizzle with the olive oil</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle the Canadian bacon over the tomatoes, then top with the mozzarella</cmd>
+            </step>
+            <step>
+                <cmd>Bake for 10 to 12 minutes, or until the cheese is melted and beginning to brown</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle with basil</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
